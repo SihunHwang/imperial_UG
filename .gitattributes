@@ -4,3 +4,5 @@
 /Users/sihunhwang/github-classroom/imperial_UG/Lecture[[:space:]]notes/Year[[:space:]]2/Mathematical[[:space:]]Methods/Mathematical_Methods(1)[[:space:]](1)[[:space:]]2024-01-10[[:space:]]20_57_39.pdf filter=lfs diff=lfs merge=lfs -text
 /Users/sihunhwang/github-classroom/imperial_UG/Lecture[[:space:]]notes/Year[[:space:]]2/Quantum[[:space:]]Mechanics/2023-Lectures-Chapters1-6[[:space:]]2024-01-15[[:space:]]15_01_53.pdf filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+Societies/algorithmic[[:space:]]trading[[:space:]]society/notebooks/Lecture[[:space:]]5/INTC_2015-01-02_34200000_57600000_orderbook;2D;2D_10.csv filter=lfs diff=lfs merge=lfs -text
+Societies/algorithmic[[:space:]]trading[[:space:]]society/notebooks/Lecture[[:space:]]5/INTC_2015-01-02_34200000_57600000_orderbook_10.csv filter=lfs diff=lfs merge=lfs -text
